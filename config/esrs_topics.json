@@ -1,0 +1,158 @@
+{
+  "topics": [
+    {
+      "code": "E1",
+      "name": "Climate Change",
+      "pillar": "Environmental",
+      "iros": [
+        {
+          "iro_id": "E1-I1",
+          "iro_type": "Impact",
+          "description": "Treibhausgasemissionen aus dem eigenen Betrieb (Scope 1 & 2)"
+        },
+        {
+          "iro_id": "E1-I2",
+          "iro_type": "Impact",
+          "description": "Indirekte Emissionen in der Wertschöpfungskette (Scope 3)"
+        },
+        {
+          "iro_id": "E1-R1",
+          "iro_type": "Risk",
+          "description": "Physische Klimarisiken durch Extremwetterereignisse (Überschwemmung, Hitze)"
+        },
+        {
+          "iro_id": "E1-O1",
+          "iro_type": "Opportunity",
+          "description": "Umsatzpotenzial durch kohlenstoffarme Produkte und Dienstleistungen"
+        }
+      ]
+    },
+    {
+      "code": "E2",
+      "name": "Pollution",
+      "pillar": "Environmental",
+      "iros": [
+        {
+          "iro_id": "E2-I1",
+          "iro_type": "Impact",
+          "description": "Schadstoffemissionen in Luft, Wasser und Boden durch Produktionsprozesse"
+        },
+        {
+          "iro_id": "E2-R1",
+          "iro_type": "Risk",
+          "description": "Regulatorische Haftungsrisiken durch Überschreitung von Emissionsgrenzwerten"
+        },
+        {
+          "iro_id": "E2-O1",
+          "iro_type": "Opportunity",
+          "description": "Wettbewerbsvorteil durch saubere Produktionsverfahren und Umweltzertifizierungen"
+        }
+      ]
+    },
+    {
+      "code": "E3",
+      "name": "Water & Marine Resources",
+      "pillar": "Environmental",
+      "iros": [
+        {
+          "iro_id": "E3-I1",
+          "iro_type": "Impact",
+          "description": "Wasserentnahme in wasserknappen Regionen und Beeinträchtigung von Ökosystemen"
+        },
+        {
+          "iro_id": "E3-R1",
+          "iro_type": "Risk",
+          "description": "Betriebsunterbrechungen durch Wasserknappheit in kritischen Produktionsstandorten"
+        },
+        {
+          "iro_id": "E3-O1",
+          "iro_type": "Opportunity",
+          "description": "Effizienzgewinne durch Wasserrecycling und Kreislaufwirtschaft"
+        }
+      ]
+    },
+    {
+      "code": "S1",
+      "name": "Own Workforce",
+      "pillar": "Social",
+      "iros": [
+        {
+          "iro_id": "S1-I1",
+          "iro_type": "Impact",
+          "description": "Arbeitssicherheit und Gesundheitsschutz der eigenen Beschäftigten"
+        },
+        {
+          "iro_id": "S1-I2",
+          "iro_type": "Impact",
+          "description": "Faire Entlohnung, Gleichstellung und Chancengerechtigkeit im Unternehmen"
+        },
+        {
+          "iro_id": "S1-R1",
+          "iro_type": "Risk",
+          "description": "Reputations- und Rechtsrisiken durch Verstöße gegen Arbeitnehmerrechte"
+        }
+      ]
+    },
+    {
+      "code": "S2",
+      "name": "Workers in Value Chain",
+      "pillar": "Social",
+      "iros": [
+        {
+          "iro_id": "S2-I1",
+          "iro_type": "Impact",
+          "description": "Arbeitsbedingungen und Menschenrechte bei Lieferanten und Subunternehmern"
+        },
+        {
+          "iro_id": "S2-R1",
+          "iro_type": "Risk",
+          "description": "Lieferkettenrisiken durch Verletzung des Lieferkettensorgfaltspflichtengesetzes (LkSG)"
+        },
+        {
+          "iro_id": "S2-O1",
+          "iro_type": "Opportunity",
+          "description": "Stärkung der Lieferkette durch nachhaltige Lieferantenentwicklung und -bindung"
+        }
+      ]
+    },
+    {
+      "code": "G1",
+      "name": "Business Conduct",
+      "pillar": "Governance",
+      "iros": [
+        {
+          "iro_id": "G1-I1",
+          "iro_type": "Impact",
+          "description": "Auswirkungen von Unternehmensverhalten auf Wettbewerb, Märkte und Stakeholder"
+        },
+        {
+          "iro_id": "G1-R1",
+          "iro_type": "Risk",
+          "description": "Korruptions-, Bestechungs- und Kartellrisiken in Geschäftsprozessen"
+        },
+        {
+          "iro_id": "G1-O1",
+          "iro_type": "Opportunity",
+          "description": "Vertrauensaufbau bei Investoren durch transparente Governance-Strukturen"
+        }
+      ]
+    },
+    {
+      "code": "G2",
+      "name": "Corporate Culture & Anti-Corruption",
+      "pillar": "Governance",
+      "iros": [
+        {
+          "iro_id": "G2-I1",
+          "iro_type": "Impact",
+          "description": "Unternehmenskultur und Werteorientierung als Einflussfaktor auf gesellschaftliches Verhalten"
+        },
+        {
+          "iro_id": "G2-R1",
+          "iro_type": "Risk",
+          "description": "Reputationsschäden und Sanktionen durch unethisches Verhalten oder Whistleblower-Vorfälle"
+        }
+      ]
+    }
+  ]
+}
